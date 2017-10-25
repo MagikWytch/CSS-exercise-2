@@ -1,0 +1,7 @@
+article:before {
+   content: url(https://www.gamedev.net/uploads/dbfbd8d02cc64461a993087d76d80775.png);
+}
+
+article:first-line {
+    color: red;
+}
